@@ -1,0 +1,1 @@
+Xcopy ".\*" "C:\Users\%USERNAME%\AppData\local\Uber Entertainment\Planetary Annihilation\client_mods\Legion_test" /e /i
